@@ -1,0 +1,12 @@
+The internet has become an integral part of daily life and work,
+and web sites are effective ways to communicate information, provide services, 
+or grow businesses. 
+In this course, we will learn about the fundamental languages and tools
+involved in front-end web programming: HTML, CSS, and JavaScript. 
+These have separated roles of specifying the content, appearance, and behavior
+of a web page. 
+Students will learn how to design modern web pages, incorporating responsive
+design practices and considerations for accessibility. 
+A major part of the course will be building their own website and publishing it 
+using Github pages. 
+Topics covered include HTML elements, CSS selectors, cascading, box model, flexbox and grid layouts, JavaScript, DOM, and web forms. 
